@@ -72,7 +72,7 @@ procedure Tests_Tableau_Entiers_Util is
       result            : Boolean := True;
       elt_plus_frequent : Integer;
    begin
-      tableau_1.tableau (1 .. 10) := (1, 9, 3, 4, 4, 6, 4, 9, 8, 10);
+      tableau_1.tableau (1 .. 10) := (1, 3, 4, 9, 4, 6, 4, 9, 9, 10);
       tableau_1.nbElements        := 10;
       elt_plus_frequent           := Element_Plus_Frequent (tableau_1);
       Put("Element plus frequent : "); Put(elt_plus_frequent, 0); New_Line;
