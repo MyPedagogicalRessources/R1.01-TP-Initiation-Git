@@ -1,14 +1,14 @@
 # TP Initiation à Git
 
-### LAST NAME : DOE
-### First name : John
+### LAST NAME : SIL
+### First name : F
 ### TP group :
 - [ ] a
 - [ ] b
 - [ ] c
 - [ ] d
 - [ ] e
-- [ ] f
+- [x] f
 
 ## Le fichier Activites_enonce.pdf
 
