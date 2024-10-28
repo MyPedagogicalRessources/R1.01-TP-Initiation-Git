@@ -1,0 +1,5 @@
+project default is
+    for Source_Dirs use ("src","src_tests");
+    for Object_Dir use "obj";
+    for Main use ("tests_tableau_entiers_util","main.adb");
+end default;
